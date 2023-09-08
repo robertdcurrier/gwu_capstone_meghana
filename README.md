@@ -1,4 +1,4 @@
-# GWU Data Science Capstone (Meghana)
+# GWU Data Science Capstone (Meghana Reddy)
 
 
 ## What it does
